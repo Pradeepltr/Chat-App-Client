@@ -1,0 +1,13 @@
+.msg-container1{
+    display: grid;
+    grid-template-rows: 80% 20%;
+    gap: .5rem;
+}
+.in{
+    width: 80%;
+    font-weight: bold;
+    color: white;
+}
+.btn1{
+    margin-left: 1rem;
+}

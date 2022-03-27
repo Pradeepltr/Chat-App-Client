@@ -1,0 +1,38 @@
+.display-main{
+    height:65vh;
+    margin-top: -1.2rem;
+    background-color: aliceblue;
+    overflow: auto;
+}
+.sended{
+    
+    background-color: aqua;
+    margin-left: 60%;
+    height: fit-content;
+    width:fit-content;
+    border-radius: 10%;
+    font-size: 16px;
+    margin-top: .5rem;
+    color:gray;
+    padding: 0;
+    text-overflow: initial;
+    padding: 0.1rem;
+}
+.sended ::content{
+    background-color: darkcyan;
+}
+.recieved{
+   width: 30%;
+    height: 1.5rem;
+    margin-top: .5rem;
+    border-radius: 10%;
+    background-color: burlywood;
+    width: fit-content;
+    height: fit-content;
+    color: white;
+    font-size: 16px;
+    padding: 0.1rem;
+}
+.recieved ::content{
+    background-color: darkcyan;
+}
